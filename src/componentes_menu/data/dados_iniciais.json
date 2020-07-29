@@ -1,0 +1,186 @@
+{
+  "categorias": [
+    {
+      "titulo": "GameDev",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "O que é GameDev?",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Como usar o Aseprite",
+          "url": "https://www.youtube.com/watch?v=WxPhLQAPy6w&t=941s"
+        },
+        {
+          "titulo": "SEO com React",
+          "url": "https://www.youtube.com/watch?v=6yk_4SjwhuM"
+        },
+        {
+          "titulo": "Componentização com VanillaJS #AluraMais",
+          "url": "https://www.youtube.com/watch?v=-QmGPlasZF4"
+        },
+        {
+          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "url": "https://www.youtube.com/watch?v=Vlcop0uxFIQ"
+        },
+        {
+          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+          "url": "https://www.youtube.com/watch?v=qoHHb4Hi-Gw"
+        },
+        {
+          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=8kydo5-qGTI"
+        },
+        {
+          "titulo": "Novidades do Angular v9",
+          "url": "https://www.youtube.com/watch?v=kQWTUc-Fsq4"
+        },
+        {
+          "titulo": "Base para aprender os frameworks",
+          "url": "https://www.youtube.com/watch?v=E9IHL9hGH1k"
+        }        
+      ]
+    },
+    {
+      "titulo": "Engines",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Saiba um pouco sobre engines",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+        },
+        {
+          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+          "url": "https://www.youtube.com/watch?v=YwsUOnm8ZoI"
+        },
+        {
+          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "url": "https://www.youtube.com/watch?v=gvMmYw8fDJU"
+        },
+        {
+          "titulo": "API: Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=Vt7VtkWb3R4"
+        }, 
+        {
+          "titulo": "Usando Git Direito",
+          "url": "https://www.youtube.com/watch?v=kzqBfPUnnvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Pixel art",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Um pouco sobre a arte com pixel",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=ZoEhS54jIRQ"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=WxPhLQAPy6w&t=941s"
+        },
+        {
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=ZoEhS54jIRQ"
+        },
+        {
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=Md6W79jtLJM&t=539s"
+        }
+      ]
+    },
+    {
+      "titulo": "Level Design",
+      "cor": "orange",
+      
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=qVtj22ryjNU"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=qVtj22ryjNU"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=k09eqlnnWA0"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=hk7d93TjSR0"
+        }
+      ]
+    },
+    {
+      "titulo": "Sonoplastia",
+      "cor": "red",
+      "link_extra": {
+        "text": "Um pouco sobre a criação de músicas",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=I-bbU0lr_wk"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=I-bbU0lr_wk"
+        },
+        {
+          "titulo": "teoria musical",
+          "url": "https://www.youtube.com/watch?v=wzOY3mxTBag"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JLB4vmkj1Ew"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=8tOqppA8TQU"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Jogos feitos por uma pessoa só",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Jogos feitos no Gms2",
+          "url": "https://www.youtube.com/watch?v=qcScAChA5yE&t=140s"
+        },
+        {
+          "titulo": "Stardew valley",
+          "url": "https://www.youtube.com/watch?v=_AZRvSb54WQ"
+        },
+        {
+          "titulo": "Indie brasileiro",
+          "url": "https://www.youtube.com/watch?v=4HrLhpCX7uc"
+        },
+        {
+          "titulo": "Hollow Knight",
+          "url": "https://www.youtube.com/watch?v=h1x_v-vqBm4"
+        },
+        {
+          "titulo": "Celeste",
+          "url": "https://www.youtube.com/watch?v=c3mbELVqAmo"
+        }
+      ]
+    }
+  ]
+}
